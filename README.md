@@ -1,7 +1,7 @@
 # MCCSC Salary Spread 2019-2020 
 
 
-This directory was created to:
+#### This directory was created to:
 * practice creating graphs in Python's Plotly library.
 * to create a rough website on Github using a free Bootstrap template.
 
