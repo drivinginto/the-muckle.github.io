@@ -8,3 +8,4 @@
 
 #### The data for the Plotly graphs come from MCCSC's (Monroe County Community School Corporation) budget website.<br> </br>
 The graphs provide a visual for the spread and nature of employee salaries and experience. 
+![Salary Spread Example](Salary_Spread_2019.png)
